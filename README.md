@@ -1,16 +1,14 @@
-### Hi there 👋
+<h3 align="center">👋 Hi there!</h3>
+<h3 align="center">I'm Douglas Coutinho</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/douglas-coutinho-dos-santos/">Linkedin</a> •
+</p>
 
-<!--
-**c0utinh0/c0utinh0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+- 💻 I'm  studying at [École 42](https://www.42.fr/) - [Rio](https://www.42.rio/)
+- ⚙️ I use daily:  `c#`, `.net`
+- 🌱 Learning all about **C Lang**
+- 📫 Reach me: eng.doug.coutinho@gmail.com 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
