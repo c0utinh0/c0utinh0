@@ -7,6 +7,6 @@
 ---
 
 - 💻 I'm  studying at [École 42](https://www.42.fr/) - [Rio](https://www.42.rio/)
-- ⚙️ I use daily:  `c#`, `Java`
+- ⚙️ I use daily:  `c#`, `.net`
 - 🌱 Learning all about **C Lang**
 - 📫 Reach me: eng.doug.coutinho@gmail.com 
