@@ -6,7 +6,7 @@
 
 ---
 
-- 💻 I'm  studying at [École 42](https://www.42.fr/) - [Rio](https://www.42.rio/)
-- ⚙️ I use daily:  `c#`, `.net`
+- 💻 I'm  a Full-Stack Developer
+- ⚙️ I use daily:  `Javascript`, `React`, `NestJS`, `NextJS`, `PostgreSQL`
 - 🌱 Learning all about **C Lang**
 - 📫 Reach me: eng.doug.coutinho@gmail.com 
