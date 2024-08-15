@@ -7,6 +7,6 @@
 ---
 
 - 💻 I'm  a Back-End Developer
-- ⚙️ I use daily:  `Go`, `PostgreSQL`
+- ⚙️ I use daily:  `Go`, `Javascript`, `PostgreSQL`
 - 🌱 Learning all about **C Lang**
 - 📫 Reach me: eng.doug.coutinho@gmail.com 
