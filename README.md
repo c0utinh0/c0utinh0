@@ -7,5 +7,5 @@
 ---
 
 - 💻 I'm  a Back-End Developer
-- ⚙️ I use daily:  `C`, `Go`, `JavaScript`, `PostgreSQL`
+- ⚙️ I use daily: `Go`, `JavaScript`, `PostgreSQL`
 - 📫 Reach me: eng.doug.coutinho@gmail.com 
